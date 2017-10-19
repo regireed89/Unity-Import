@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15a192b956cb3024598928df961f44ba, type: 3}
+  m_Name: LootTable
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 1839069310797708, guid: f3deb70e2df5b8445a40e0c74e855b8a, type: 2}
+  - {fileID: 1033035732991544, guid: 8fe946246b1a5034e9eb08acdd7a85a7, type: 2}
+  - {fileID: 1155594524868128, guid: 1ad541a5bd275e3408cafda72463027a, type: 2}
